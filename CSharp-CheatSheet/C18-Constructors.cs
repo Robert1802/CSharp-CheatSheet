@@ -141,9 +141,9 @@ namespace CSharp_CheatSheet
 
     internal class CarNoConstructor
     {
-        public string model;
-        public string color;
-        public int year;
+        public string? model;
+        public string? color;
+        public int?  year;
     }
 
 }
