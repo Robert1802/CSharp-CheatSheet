@@ -57,7 +57,7 @@ namespace CSharp_CheatSheet
         {
             January,    // 0
             February,   // 1
-            March = 6,    // 6
+            March = 6,  // 6
             April,      // 7
             May,        // 8
             June,       // 9
