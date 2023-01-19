@@ -2,7 +2,7 @@
 
 This file was created to be a dictionary of definitions and examples of C# concepts.
 
-Hare you will have a list of concepts to choose from:
+Here you will have a list of concepts to choose from:
 
 - [01-Variables](./CSharp-CheatSheet/C01-Variables.cs) 
 - [02-DataTypes](./CSharp-CheatSheet/C02-Data-Type.cs)
