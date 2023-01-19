@@ -31,3 +31,4 @@ Here you will have a list of concepts to choose from:
 - [25-Enum](./CSharp-CheatSheet/C25-Enum.cs)
 - [26-Files](./CSharp-CheatSheet/C26-Files.cs)
 - [27-Exceptions](./CSharp-CheatSheet/C27-Exceptions.cs)
+- [28-Reflection](./CSharp-CheatSheet/C28-Reflection.cs)
