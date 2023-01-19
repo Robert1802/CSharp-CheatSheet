@@ -32,3 +32,4 @@ Here you will have a list of concepts to choose from:
 - [25-Enum](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C25-Enum.cs)
 - [26-Files](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C26-Files.cs)
 - [27-Exceptions](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C27-Exceptions.cs)
+- [28-Reflection](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C28-Reflection.cs)
