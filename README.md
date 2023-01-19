@@ -4,8 +4,7 @@ This file was created to be a dictionary of definitions and examples of C# conce
 
 Here you will have a list of concepts to choose from:
 - [01-Variables](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C01-Variables.cs) 
-- [01-Variables Interactive](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C01-Variables.dib) 
-- [01-Variables Interactive](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C03-Operators.ipynb) 
+- [01-Variables Interactive](./CSharp-CheatSheet/C01-Variables.ipynb) 
 - [02-DataTypes](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C02-Data-Type.cs)
 - [03-Operators](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C03-Operators.cs)
 - [04-Math](https://github.com/Robert1802/CSharp-CheatSheet/blob/master/CSharp-CheatSheet/C04-Math.cs)
