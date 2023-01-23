@@ -33,3 +33,4 @@ Here you will have a list of concepts to choose from:
 - [27-Exceptions](./CSharp-CheatSheet/C27-Exceptions.cs)
 - [28-Reflection](./CSharp-CheatSheet/C28-Reflection.cs)
 - [29-Generics](./CSharp-CheatSheet/C29-Generics.cs)
+- [31-Async-Return](./CSharp-CheatSheet/C31-Async-Return.cs)
