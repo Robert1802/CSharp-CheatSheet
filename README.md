@@ -32,3 +32,4 @@ Here you will have a list of concepts to choose from:
 - [26-Files](./CSharp-CheatSheet/C26-Files.cs)
 - [27-Exceptions](./CSharp-CheatSheet/C27-Exceptions.cs)
 - [28-Reflection](./CSharp-CheatSheet/C28-Reflection.cs)
+- [29-Generics](./CSharp-CheatSheet/C29-Generics.cs)
